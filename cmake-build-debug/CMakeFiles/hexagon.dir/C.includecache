@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Naman Jain/CLionProjects/untitled/hexagon.c
+GL/glut.h
+-
+GL/glu.h
+-
+GL/gl.h
+-
+

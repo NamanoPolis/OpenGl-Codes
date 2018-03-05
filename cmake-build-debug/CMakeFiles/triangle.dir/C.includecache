@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Naman Jain/CLionProjects/untitled/triangle.c
+GL/gl.h
+-
+GL/glu.h
+-
+GL/glut.h
+-
+windows.h
+-
+

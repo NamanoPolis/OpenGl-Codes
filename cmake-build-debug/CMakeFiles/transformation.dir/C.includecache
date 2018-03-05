@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Naman Jain/CLionProjects/untitled/transformation.c
+stdio.h
+-
+windows.h
+-
+GL/glut.h
+-
+GL/glu.h
+-
+string.h
+-
+math.h
+-
+

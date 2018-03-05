@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Naman Jain/CLionProjects/untitled/subwidcomplex.c
+GL/gl.h
+-
+GL/glu.h
+-
+stdbool.h
+-
+GL/glut.h
+-
+stdio.h
+-
+

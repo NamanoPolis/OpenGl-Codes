@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Naman Jain/CLionProjects/untitled/MazeGenerator.c
+GL/glut.h
+-
+stdbool.h
+-
+stdio.h
+-
+time.h
+-
+math.h
+-
+freeglut.h
+-
+

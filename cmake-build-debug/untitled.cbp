@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="liangbarsky">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/liangbarsky.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 liangbarsky"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="liangbarsky/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/liangbarsky.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 liangbarsky/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangle">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/triangle.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 triangle"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangle/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/triangle.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 triangle/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hexagon">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/hexagon.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 hexagon"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hexagon/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/hexagon.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 hexagon/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="house">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/house.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 house"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="house/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/house.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 house/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="subwid">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/subwid.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 subwid"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="subwid/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/subwid.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 subwid/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prims">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/prims.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 prims"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prims/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/prims.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 prims/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mousekeyboard">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/mousekeyboard.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 mousekeyboard"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mousekeyboard/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/mousekeyboard.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 mousekeyboard/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ddaandbresonims">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/ddaandbresonims.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 ddaandbresonims"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ddaandbresonims/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/ddaandbresonims.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 ddaandbresonims/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ddabres">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/ddabres.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 ddabres"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ddabres/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/ddabres.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 ddabres/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MazeGenerator">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/MazeGenerator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 MazeGenerator"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MazeGenerator/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/MazeGenerator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 MazeGenerator/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pointclip">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/pointclip.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 pointclip"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pointclip/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/pointclip.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 pointclip/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cohenland">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/cohenland.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 cohenland"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cohenland/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/cohenland.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 cohenland/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="subwidcomplex">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/subwidcomplex.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 subwidcomplex"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="subwidcomplex/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/subwidcomplex.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 subwidcomplex/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pongpong">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/pongpong.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 pongpong"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pongpong/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/pongpong.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 pongpong/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leaf">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/leaf.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 leaf"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leaf/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/leaf.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 leaf/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fractal">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/fractal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 fractal"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fractal/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/fractal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 fractal/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fractalsquare">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/fractalsquare.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 fractalsquare"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fractalsquare/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/fractalsquare.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 fractalsquare/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transformation">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/transformation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 transformation"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transformation/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/transformation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 transformation/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oopsconcept">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/oopsconcept.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 oopsconcept"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="oopsconcept/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/oopsconcept.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 oopsconcept/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pong">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/pong.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 pong"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pong/fast">
+				<Option output="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/pong.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/bin"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/lib"/>
+					<Add directory="C:/Users/Naman Jain/CLionProjects/untitled/freeglut/include/GL"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/mingw32"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include/c++/backward"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/../../../../include"/>
+					<Add directory="c:\program files (x86)\codeblocks\mingw\bin\../lib/gcc/mingw32/4.8.1/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 pong/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/MazeGenerator.c">
+			<Option target="MazeGenerator"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/prims.c">
+			<Option target="prims"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/cohenland.c">
+			<Option target="cohenland"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/ddaandbresonims.c">
+			<Option target="ddaandbresonims"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/ddabres.c">
+			<Option target="ddabres"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/fractal.c">
+			<Option target="fractal"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/fractalsquare.c">
+			<Option target="fractalsquare"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/hexagon.c">
+			<Option target="hexagon"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/house.c">
+			<Option target="house"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/leaf.c">
+			<Option target="leaf"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/liangbarsky.c">
+			<Option target="liangbarsky"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/mousekeyboard.c">
+			<Option target="mousekeyboard"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/oopsconcept.cpp">
+			<Option target="oopsconcept"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/pointclip.c">
+			<Option target="pointclip"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/pong.cpp">
+			<Option target="pong"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/pongpong.c">
+			<Option target="pongpong"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/subwid.c">
+			<Option target="subwid"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/subwidcomplex.c">
+			<Option target="subwidcomplex"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/transformation.c">
+			<Option target="transformation"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/triangle.c">
+			<Option target="triangle"/>
+		</Unit>
+		<Unit filename="C:/Users/Naman Jain/CLionProjects/untitled/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

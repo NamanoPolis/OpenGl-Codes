@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Naman Jain/CLionProjects/untitled/cmake-build-debug/prims.c
+GL/gl.h
+-
+GL/glu.h
+-
+GL/glut.h
+-
+unistd.h
+-
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+windows.h
+-
+conio.h
+-
+
